@@ -1,0 +1,1015 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./i-phone-14-plus-6.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=SF Pro Text:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Circular Std:wght@400;500;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="iphone-14-plus-6">
+      <div class="your-library-screen-grid-2">
+        <img
+          class="scroll-indicator-icon1"
+          alt=""
+          src="./public/scroll-indicator.svg"
+        />
+
+        <div class="content2">
+          <div class="empty-space2"></div>
+          <div class="add-podcasts-shows1">
+            <img
+              class="add-podcast-icon1"
+              alt=""
+              src="./public/add-podcast.svg"
+            />
+
+            <div class="add-podcasts1">Add podcasts & shows</div>
+          </div>
+          <div class="add-artists2">
+            <img
+              class="add-podcast-icon1"
+              alt=""
+              src="./public/add-artists.svg"
+            />
+
+            <div class="add-artists3">Add artists</div>
+          </div>
+          <div class="div15">
+            <div class="pinned-parent10">
+              <img class="pinned-icon14" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon13"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Album</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">The Cavemen</div>
+            </div>
+            <div class="liked-songs15">ROOTS</div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div16">
+            <div class="pinned-parent10">
+              <img class="pinned-icon14" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon13"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Album</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">Amy Shark</div>
+            </div>
+            <div class="liked-songs15">Cry Forever</div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div17">
+            <div class="pinned-parent10">
+              <img class="pinned-icon14" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon13"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Album</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">Sia</div>
+            </div>
+            <div class="liked-songs15">1000 Forms Of Fear</div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div18">
+            <div class="pinned-parent10">
+              <img class="pinned-icon14" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon13"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Album</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">Hillsong UNITED</div>
+            </div>
+            <div class="liked-songs15">Wonder</div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div19">
+            <div class="pinned-parent10">
+              <img class="pinned-icon14" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon13"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Album</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">Imagine Dragons</div>
+            </div>
+            <div class="liked-songs15">Evolve</div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div20">
+            <div class="pinned-parent10">
+              <img class="pinned-icon14" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon13"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Album</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">Imagine Dragons</div>
+            </div>
+            <div class="liked-songs15">Origins (Deluxe)</div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div21">
+            <div class="pinned-parent10">
+              <img class="pinned-icon14" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon13"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Album</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">Imagine Dragons</div>
+            </div>
+            <div class="liked-songs15">Night Visions</div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div22">
+            <div class="pinned-parent10">
+              <img class="pinned-icon14" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon20"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Album</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">Passenger</div>
+            </div>
+            <div class="liked-songs15">Whispers</div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div23">
+            <div class="pinned-parent10">
+              <img class="pinned-icon14" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon20"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Album</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">Dean Lewis</div>
+            </div>
+            <div class="liked-songs15">A Place We Knew</div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div24">
+            <div class="pinned-parent10">
+              <img class="pinned-icon14" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon20"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Album</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">Passenger</div>
+            </div>
+            <div class="liked-songs15">
+              All the Little Lights (Deluxe Version)
+            </div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div25">
+            <div class="pinned-parent10">
+              <img class="pinned-icon24" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon20"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Playlist</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">Augustten</div>
+            </div>
+            <div class="liked-songs15">Augustten Ft Jhesy ??</div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div26">
+            <div class="pinned-parent10">
+              <img class="pinned-icon24" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon13"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Playlist</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">Jhesy</div>
+            </div>
+            <div class="liked-songs15">Emotional Songs</div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div27">
+            <div class="pinned-parent10">
+              <img class="pinned-icon24" alt="" src="./public/pinned.svg" />
+
+              <img
+                class="downloaded-icon20"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="playlist13">Playlist</div>
+              <div class="frame-child11"></div>
+              <div class="playlist13">266 songs</div>
+            </div>
+            <div class="liked-songs27">Liked Songs</div>
+            <img class="art-icon23" alt="" src="./public/art@2x.png" />
+          </div>
+          <img class="view-icon1" alt="" src="./public/view.svg" />
+
+          <div class="sort-by1">
+            <div class="recently-played-container">
+              <div class="playlist13">Most recent</div>
+            </div>
+            <img class="sort-icon1" alt="" src="./public/sort.svg" />
+          </div>
+        </div>
+        <div class="your-library-screen-grid-2-child"></div>
+        <div class="category-selections1">
+          <div class="albums1">
+            <div class="downloaded6">Albums</div>
+          </div>
+          <div class="playlists1">
+            <div class="downloaded6">Playlists</div>
+          </div>
+          <div class="downloaded8">
+            <div class="downloaded6">Downloaded</div>
+          </div>
+          <div class="albums-01">
+            <div class="downloaded6">Albums</div>
+          </div>
+          <div class="playlists-01">
+            <div class="downloaded6">Playlists</div>
+          </div>
+          <img class="cancel-icon1" alt="" />
+        </div>
+        <div class="top-area1">
+          <div class="top-area-item"></div>
+          <img class="add-icon1" alt="" src="./public/add.svg" />
+
+          <img class="search-icon2" alt="" src="./public/search.svg" />
+
+          <b class="your-library5">Your Library</b>
+          <img
+            class="profile-pic-icon1"
+            alt=""
+            src="./public/profile-pic@2x.png"
+          />
+        </div>
+        <div class="navigation-bar4">
+          <div class="navigation-bar-child1"></div>
+          <div class="library4">
+            <div class="your-library6">Your Library</div>
+            <img class="icon47" alt="" src="./public/icon.svg" />
+          </div>
+          <div class="search9">
+            <div class="search10">Search</div>
+            <img class="icon48" alt="" src="./public/icon.svg" />
+          </div>
+          <div class="home8">
+            <div class="home9">Home</div>
+            <img class="icon49" alt="" src="./public/icon.svg" />
+          </div>
+        </div>
+        <div class="curent-song3">
+          <div class="curent-song-child1"></div>
+          <img class="seed-icon3" alt="" src="./public/seed.svg" />
+
+          <img class="playpause-icon3" alt="" src="./public/playpause.svg" />
+
+          <img
+            class="likeunlike-animation-icon3"
+            alt=""
+            src="./public/likeunlike-animation.svg"
+          />
+
+          <div class="device3">
+            <div class="phone3">
+              <img class="phone-icon3" alt="" src="./public/phone.svg" />
+            </div>
+          </div>
+          <div class="titleartist3">
+            <b class="kwaku-the-traveller3">Kwaku the Traveller</b>
+            <div class="black-sherif3">Black Sherif</div>
+          </div>
+          <img class="art-icon36" alt="" src="./public/art@2x.png" />
+        </div>
+        <div class="status-bar5">
+          <div class="time5">
+            <b class="b5">8:00</b>
+          </div>
+          <img class="stats-icon5" alt="" src="./public/stats.svg" />
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+.empty-space2,
+.scroll-indicator-icon1 {
+  position: absolute;
+  top: 694px;
+  left: 379px;
+  width: 35px;
+  height: 52px;
+}
+.empty-space2 {
+  top: 2085px;
+  left: 0;
+  width: 414px;
+  height: 128px;
+  overflow: hidden;
+}
+.add-podcast-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 184px;
+  height: 184px;
+}
+.add-podcasts1 {
+  position: absolute;
+  top: 196px;
+  left: 0;
+}
+.add-podcasts-shows1 {
+  position: absolute;
+  top: 1841px;
+  left: 23px;
+  width: 184px;
+  height: 214px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.add-artists2,
+.add-artists3 {
+  position: absolute;
+  top: 196px;
+  left: 57px;
+}
+.add-artists2 {
+  top: 1585px;
+  left: 229px;
+  width: 184px;
+  height: 214px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.downloaded-icon13,
+.pinned-icon14 {
+  width: 10.5px;
+  position: relative;
+  height: 10.5px;
+  display: none;
+}
+.downloaded-icon13 {
+  width: 12px;
+  height: 12px;
+}
+.frame-child11,
+.playlist13 {
+  position: relative;
+}
+.frame-child11 {
+  width: 3px;
+  border-radius: 50%;
+  background-color: var(--color-gray-500);
+  height: 3px;
+}
+.pinned-parent10 {
+  position: absolute;
+  height: 6.19%;
+  width: 69.84%;
+  top: 93.81%;
+  right: 29.08%;
+  bottom: 0;
+  left: 1.09%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 4px;
+}
+.liked-songs15 {
+  position: absolute;
+  top: 86.73%;
+  left: 0.54%;
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: left;
+}
+.art-icon23 {
+  position: absolute;
+  height: 81.42%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 18.58%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21 {
+  position: absolute;
+  top: 1585px;
+  left: 18px;
+  width: 184px;
+  height: 226px;
+}
+.div16,
+.div17,
+.div18,
+.div19,
+.div20,
+.div21 {
+  top: 1323px;
+  left: 198px;
+}
+.div17,
+.div18,
+.div19,
+.div20,
+.div21 {
+  left: 0;
+}
+.div18,
+.div19,
+.div20,
+.div21 {
+  top: 1065px;
+  left: 198px;
+}
+.div19,
+.div20,
+.div21 {
+  left: 0;
+}
+.div20,
+.div21 {
+  top: 807px;
+  left: 198px;
+}
+.div21 {
+  left: 0;
+}
+.downloaded-icon20 {
+  width: 12px;
+  position: relative;
+  height: 12px;
+}
+.div22,
+.div23,
+.div24 {
+  position: absolute;
+  top: 549px;
+  left: 198px;
+  width: 184px;
+  height: 226px;
+}
+.div23,
+.div24 {
+  left: 0;
+}
+.div24 {
+  top: 291px;
+  left: 198px;
+}
+.pinned-icon24 {
+  width: 10.5px;
+  position: relative;
+  height: 10.5px;
+}
+.div25,
+.div26 {
+  position: absolute;
+  top: 291px;
+  left: 0;
+  width: 184px;
+  height: 226px;
+}
+.div26 {
+  top: 33px;
+  left: 198px;
+}
+.liked-songs27 {
+  position: absolute;
+  top: 86.73%;
+  left: 0.54%;
+  font-weight: 500;
+  color: var(--color-limegreen);
+  text-align: left;
+}
+.div27,
+.view-icon1 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  width: 184px;
+  height: 226px;
+}
+.view-icon1 {
+  top: 0;
+  left: 361px;
+  width: 16px;
+  height: 16px;
+}
+.recently-played-container {
+  position: absolute;
+  top: -10px;
+  left: 19px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.sort-icon1 {
+  position: absolute;
+  height: 64.29%;
+  width: 13.7%;
+  top: 14.29%;
+  right: 86.3%;
+  bottom: 21.43%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.content2,
+.sort-by1 {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  width: 108px;
+  height: 14px;
+  color: var(--color-white);
+}
+.content2 {
+  top: -1317px;
+  left: 0;
+  width: 414px;
+  height: 2205px;
+  color: var(--color-gray-500);
+}
+.your-library-screen-grid-2-child {
+  position: absolute;
+  top: -41px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  box-shadow: 0 3px 2px rgba(0, 0, 0, 0.5);
+  width: 414px;
+  height: 183px;
+}
+.downloaded6 {
+  position: relative;
+  line-height: 140%;
+}
+.albums1 {
+  right: -138.49%;
+  left: 201.51%;
+  display: none;
+}
+.albums-01,
+.albums1,
+.downloaded8,
+.playlists1 {
+  position: absolute;
+  height: 100%;
+  width: 36.98%;
+  top: 0;
+  bottom: 0;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-3xs-5) var(--padding-mid-5);
+}
+.playlists1 {
+  right: -107.55%;
+  left: 170.57%;
+  display: none;
+}
+.albums-01,
+.downloaded8 {
+  right: 0;
+  left: 63.02%;
+  display: flex;
+}
+.albums-01 {
+  width: 27.55%;
+  right: 40.38%;
+  left: 32.08%;
+}
+.cancel-icon1,
+.playlists-01 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.playlists-01 {
+  height: 100%;
+  width: 28.68%;
+  top: 0;
+  right: 71.32%;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-3xs-5) var(--padding-mid-5);
+}
+.cancel-icon1 {
+  height: 97.06%;
+  width: 12.45%;
+  top: 2.94%;
+  right: 87.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.category-selections1 {
+  position: absolute;
+  top: 95px;
+  left: 17px;
+  width: 265px;
+  height: 34px;
+  opacity: 0;
+  text-align: left;
+}
+.top-area-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 414px;
+  height: 131px;
+}
+.add-icon1,
+.search-icon2 {
+  position: absolute;
+  top: 82px;
+  left: 375px;
+  width: 22px;
+  height: 22px;
+}
+.search-icon2 {
+  height: 17.33%;
+  width: 5.48%;
+  top: 64.66%;
+  right: 13.6%;
+  bottom: 18.02%;
+  left: 80.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.your-library5 {
+  position: absolute;
+  top: 81px;
+  left: 63px;
+  letter-spacing: -0.02em;
+}
+.profile-pic-icon1 {
+  position: absolute;
+  top: 76px;
+  left: 17px;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.top-area1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+  height: 131px;
+  font-size: var(--font-size-lgi);
+}
+.navigation-bar-child1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    transparent,
+    rgba(0, 0, 0, 0.6) 20.7%,
+    rgba(0, 0, 0, 0.8) 38.53%,
+    rgba(0, 0, 0, 0.9) 60.36%,
+    rgba(0, 0, 0, 0.95)
+  );
+}
+.your-library6 {
+  position: absolute;
+  top: 77.68%;
+  left: -48.46%;
+  font-weight: 500;
+}
+.icon47 {
+  position: absolute;
+  height: 61.05%;
+  width: 100%;
+  top: 0;
+  right: -4.41%;
+  bottom: 38.95%;
+  left: 4.41%;
+  border-radius: var(--br-12xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.library4 {
+  position: absolute;
+  height: 34.3%;
+  width: 5.3%;
+  top: 49.53%;
+  right: 19.58%;
+  bottom: 16.17%;
+  left: 75.12%;
+}
+.search10 {
+  position: absolute;
+  top: 77.68%;
+  left: -8.81%;
+  font-weight: 500;
+}
+.icon48 {
+  position: absolute;
+  height: 61.05%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 38.95%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search9 {
+  position: absolute;
+  height: 34.3%;
+  width: 5.3%;
+  top: 49.53%;
+  right: 47.36%;
+  bottom: 16.17%;
+  left: 47.34%;
+  opacity: 0.7;
+}
+.home9 {
+  top: 77.68%;
+  left: 0;
+  font-weight: 500;
+}
+.home8,
+.home9,
+.icon49 {
+  position: absolute;
+}
+.icon49 {
+  height: 61.05%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 38.95%;
+  left: 0;
+  border-radius: var(--br-12xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home8 {
+  height: 34.3%;
+  width: 5.3%;
+  top: 49.53%;
+  right: 75.14%;
+  bottom: 16.17%;
+  left: 19.56%;
+  opacity: 0.7;
+}
+.navigation-bar4 {
+  position: absolute;
+  top: 798px;
+  left: 0;
+  width: 428px;
+  height: 128px;
+  text-align: left;
+  font-size: var(--font-size-5xs);
+}
+.curent-song-child1 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray-100);
+  width: 398px;
+  height: 60px;
+}
+.seed-icon3 {
+  position: absolute;
+  top: 63px;
+  left: 10px;
+  max-height: 100%;
+  width: 378px;
+}
+.likeunlike-animation-icon3,
+.playpause-icon3 {
+  position: absolute;
+  height: 27.49%;
+  width: 4.42%;
+  top: 35.06%;
+  right: 3.62%;
+  bottom: 37.45%;
+  left: 91.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.likeunlike-animation-icon3 {
+  height: 100%;
+  width: 17.91%;
+  top: 0;
+  right: 8.22%;
+  bottom: 0;
+  left: 73.87%;
+}
+.phone-icon3 {
+  width: 23.5px;
+  position: relative;
+  border-radius: var(--br-10xs-5);
+  height: 20px;
+}
+.phone3 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 11.75px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.device3 {
+  position: absolute;
+  top: 24px;
+  left: 272px;
+  width: 23.5px;
+  height: 20px;
+}
+.black-sherif3,
+.kwaku-the-traveller3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.black-sherif3 {
+  top: 14px;
+}
+.art-icon36,
+.titleartist3 {
+  position: absolute;
+  top: 20px;
+  left: 64px;
+  width: 102px;
+  height: 28px;
+}
+.art-icon36 {
+  top: 12px;
+  left: 8px;
+  border-radius: var(--br-8xs);
+  width: 44px;
+  height: 44px;
+  object-fit: cover;
+}
+.curent-song3 {
+  position: absolute;
+  top: 767px;
+  left: 8px;
+  width: 398px;
+  height: 71.3px;
+  text-align: left;
+}
+.b5 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stats-icon5,
+.time5 {
+  width: 50.3px;
+  position: relative;
+  height: 18px;
+}
+.stats-icon5 {
+  width: 66.7px;
+  height: 11.3px;
+}
+.status-bar5,
+.your-library-screen-grid-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.status-bar5 {
+  width: 414px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-smi) var(--padding-lg);
+  box-sizing: border-box;
+  gap: 0 261px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-sf-pro-text);
+}
+.your-library-screen-grid-2 {
+  background-color: var(--color-gray-100);
+  width: 428px;
+  height: 926px;
+}
+.iphone-14-plus-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 926px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-circular-std);
+}

@@ -1,0 +1,382 @@
+.background4,
+.lyrics-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.background4 {
+  background: linear-gradient(180deg, #4d4d4d, rgba(18, 18, 18, 0.8));
+  width: 414px;
+  height: 896px;
+  overflow: hidden;
+}
+.lyrics-item {
+  border-radius: var(--br-3xs);
+  background-color: #fe4101;
+  width: 364px;
+  height: 394px;
+}
+.share-lyrics-child {
+  position: absolute;
+  top: -0.4px;
+  left: -0.4px;
+  border-radius: 21px;
+  border: 0.8px solid rgba(255, 255, 255, 0.2);
+  box-sizing: border-box;
+  width: 97.8px;
+  height: 22.8px;
+}
+.share {
+  position: absolute;
+  top: 5px;
+  left: 41px;
+  font-weight: 500;
+}
+.share-icon,
+.share-lyrics {
+  position: absolute;
+  top: 7px;
+  left: 23px;
+  width: 9px;
+  height: 9px;
+}
+.share-lyrics {
+  top: 352px;
+  left: 249px;
+  width: 97px;
+  height: 22px;
+  font-size: 10px;
+}
+.fumble-it-fumble {
+  margin: 0;
+  color: var(--color-white);
+}
+.of-course-i {
+  margin: 0;
+}
+.fumble-it-fumble-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 140%;
+}
+.lyrics67 {
+  position: absolute;
+  top: 57px;
+  left: 17px;
+  width: 317px;
+  height: 269px;
+  overflow: hidden;
+  display: none;
+  color: var(--color-gray-200);
+}
+.fumble-it-fumble-container1 {
+  position: absolute;
+  top: -28px;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 140%;
+}
+.lyrics-kwaku {
+  position: absolute;
+  top: 59px;
+  left: 17px;
+  width: 317px;
+  height: 269px;
+  overflow: hidden;
+  color: var(--color-gray-200);
+}
+.expand-icon {
+  position: absolute;
+  top: 15px;
+  left: 317px;
+  width: 30px;
+  height: 30px;
+}
+.lyrics68 {
+  position: absolute;
+  top: 16px;
+  left: 17px;
+  font-size: var(--font-size-xs);
+}
+.lyrics-wrapper,
+.lyrics66 {
+  position: absolute;
+  top: 56px;
+  left: 25px;
+  width: 364px;
+  height: 394px;
+}
+.lyrics-wrapper {
+  top: 830px;
+  left: 0;
+  background: linear-gradient(180deg, rgba(18, 18, 18, 0), #121212);
+  width: 414px;
+  height: 505px;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+}
+.device-icon,
+.queue-icon,
+.share-icon1 {
+  position: absolute;
+  top: 839px;
+  left: 363px;
+  width: 15px;
+  height: 14px;
+}
+.device-icon,
+.share-icon1 {
+  left: 311px;
+  width: 14px;
+}
+.device-icon {
+  height: 1.79%;
+  width: 4.54%;
+  top: 93.41%;
+  right: 87%;
+  bottom: 4.8%;
+  left: 8.45%;
+  border-radius: var(--br-10xs-5);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.next-icon,
+.repeat-icon {
+  position: absolute;
+  top: 769px;
+  left: 357px;
+  width: 21px;
+  height: 20.5px;
+}
+.next-icon {
+  top: 767px;
+  left: 280px;
+  width: 22px;
+  height: 25px;
+  object-fit: contain;
+}
+.playpause-button-icon {
+  position: absolute;
+  top: 744px;
+  left: 172px;
+  width: 70px;
+  height: 70px;
+}
+.previous-icon,
+.shuffle-icon1 {
+  position: absolute;
+  top: 767px;
+  left: 112px;
+  width: 22px;
+  height: 25px;
+}
+.shuffle-icon1 {
+  top: 768.5px;
+  left: 35px;
+  width: 23.3px;
+  height: 20px;
+}
+.counter-kwaku,
+.div61,
+.div62 {
+  position: absolute;
+  top: 0;
+  left: 333px;
+}
+.counter-kwaku,
+.div62 {
+  left: 0;
+}
+.counter-kwaku {
+  width: 23px;
+  height: 14px;
+  text-align: left;
+}
+.seed-child,
+.time7 {
+  position: absolute;
+  width: 355px;
+}
+.time7 {
+  top: 731px;
+  left: 25px;
+  height: 14px;
+  color: var(--color-gray-500);
+}
+.seed-child {
+  top: 3px;
+  left: 1px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-300);
+  height: 3px;
+}
+.seeder-kwaku-child,
+.seeder-kwaku-item {
+  position: absolute;
+  background-color: var(--color-white);
+}
+.seeder-kwaku-child {
+  height: 33.33%;
+  width: 92.06%;
+  top: 33.33%;
+  right: 7.94%;
+  bottom: 33.33%;
+  left: 0;
+  border-radius: var(--br-3xs);
+}
+.seeder-kwaku-item {
+  height: 94.44%;
+  width: 13.49%;
+  top: 0;
+  right: 0.79%;
+  bottom: 5.56%;
+  left: 85.71%;
+  border-radius: 50%;
+}
+.seed,
+.seeder-kwaku {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 63px;
+  height: 9px;
+}
+.seed {
+  top: 722px;
+  left: 24px;
+  width: 356px;
+}
+.likeunlike-animation-icon5 {
+  position: absolute;
+  height: 7.7%;
+  width: 16.67%;
+  top: 72.09%;
+  right: 4.83%;
+  bottom: 20.21%;
+  left: 78.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.black-sherif5 {
+  position: absolute;
+  top: 682px;
+  left: 25px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-500);
+}
+.kwaku-the-traveller5 {
+  position: absolute;
+  top: 660px;
+  left: 25px;
+  font-size: 17px;
+}
+.silence-icon {
+  top: 0;
+  left: 439px;
+  width: 364px;
+  object-fit: cover;
+}
+.art,
+.kwaku-icon,
+.silence-icon {
+  position: absolute;
+  height: 364px;
+}
+.kwaku-icon {
+  top: 0;
+  left: 25px;
+  width: 364px;
+  object-fit: cover;
+}
+.art {
+  top: 188px;
+  left: 0;
+  width: 414px;
+  overflow: hidden;
+}
+.more-option-icon33 {
+  position: absolute;
+  top: 55px;
+  left: 379px;
+  width: 3px;
+  height: 19px;
+}
+.liked-songs30,
+.playing-from-your {
+  position: absolute;
+  top: 63px;
+  left: 176px;
+  text-align: left;
+}
+.playing-from-your {
+  top: 52px;
+  left: 135px;
+  font-size: var(--font-size-4xs);
+  letter-spacing: 0.06em;
+}
+.b7,
+.hide-icon {
+  position: absolute;
+}
+.hide-icon {
+  top: 60px;
+  left: 25px;
+  width: 18px;
+  height: 9px;
+}
+.b7 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stats-icon7,
+.time8 {
+  width: 50.3px;
+  position: relative;
+  height: 18px;
+}
+.stats-icon7 {
+  width: 66.7px;
+  height: 11.3px;
+}
+.song-screen-kwaku,
+.status-bar7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 414px;
+}
+.status-bar7 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-smi) var(--padding-lg);
+  box-sizing: border-box;
+  gap: 0 261px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-sf-pro-text);
+}
+.song-screen-kwaku {
+  height: 917px;
+  overflow-y: auto;
+}
+.iphone-14-plus-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 917px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-circular-std);
+}

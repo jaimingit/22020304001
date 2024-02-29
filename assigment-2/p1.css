@@ -1,0 +1,61 @@
+.b,
+.logo-icon {
+  position: absolute;
+}
+.logo-icon {
+  top: 360px;
+  left: 119px;
+  width: 176px;
+  height: 176px;
+}
+.b {
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stats-icon,
+.time {
+  width: 50.3px;
+  position: relative;
+  height: 18px;
+}
+.stats-icon {
+  width: 66.7px;
+  height: 11.3px;
+}
+.splash-screen-3,
+.status-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.status-bar {
+  width: 414px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-smi) var(--padding-lg);
+  box-sizing: border-box;
+  gap: 0 261px;
+}
+.splash-screen-3 {
+  background-color: var(--color-gray-100);
+  width: 428px;
+  height: 926px;
+}
+.iphone-14-plus-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 926px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-sf-pro-text);
+}

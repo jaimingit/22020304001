@@ -1,0 +1,1739 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./i-phone-14-plus-7.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=SF Pro Text:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Circular Std:wght@400;500;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="iphone-14-plus-7">
+      <div class="liked-songs-screen-1">
+        <div class="liked-songs-screen-1-child"></div>
+        <div class="background1">
+          <div class="background2"></div>
+          <div class="background3"></div>
+        </div>
+        <div class="liked-songs28">
+          <div class="empty-space3"></div>
+          <div class="div28">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Tall Heights</div>
+            </div>
+            <div class="minutes">Spirit Cold</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div29">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Jax Jones, MNEK</div>
+            </div>
+            <div class="minutes">Where Did You Go?</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div30">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Dean Lewis</div>
+            </div>
+            <div class="minutes">Hold Of Me</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div31">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Calum Scott</div>
+            </div>
+            <div class="minutes">Dancing On My Own</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div32">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Lewis Capaldi</div>
+            </div>
+            <div class="minutes">Grace</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div33">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Ed Sheeran</div>
+            </div>
+            <div class="minutes">Give Me Love</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div34">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Ed Sheeran</div>
+            </div>
+            <div class="minutes">Afterglow</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div35">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Passenger</div>
+            </div>
+            <div class="minutes">I'll Br Your Man</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div36">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="lyrics">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Tom Odell</div>
+            </div>
+            <div class="minutes">Another Love</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div37">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Passenger</div>
+            </div>
+            <div class="minutes">Let Her Go</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div38">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Passenger</div>
+            </div>
+            <div class="minutes">Sandstorm</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div39">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="explicit">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">AURORA</div>
+            </div>
+            <div class="minutes">Runaway</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div40">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Gracie and Rachel</div>
+            </div>
+            <div class="minutes">Ideas</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div41">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">James Blunt</div>
+            </div>
+            <div class="minutes">Postcards</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div42">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Faouzia, John Legend</div>
+            </div>
+            <div class="minutes">Minefields</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div43">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Ruelle, Fleurie</div>
+            </div>
+            <div class="minutes">Carry You</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div44">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Johnny Drille</div>
+            </div>
+            <div class="minutes">Papa</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div45">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">SYML</div>
+            </div>
+            <div class="minutes">Where's My Love - Acoustic</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div46">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Sasha Alex Sloan</div>
+            </div>
+            <div class="minutes">Older</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div47">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Camila Cabello, Ed Sheeran</div>
+            </div>
+            <div class="minutes">Bam Bam (feat. Ed Sheeran)</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div48">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">WILLOW</div>
+            </div>
+            <div class="minutes">Wait a Minute!</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div49">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="lyrics">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Rihanna</div>
+            </div>
+            <div class="minutes">Man Down</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div50">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">AJR</div>
+            </div>
+            <div class="minutes">Way Less Sad</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div51">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Naughty Boy, Beyoncé, Arow Be...</div>
+            </div>
+            <div class="minutes">Runnin' (Lose It All)</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div52">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Diana Ross</div>
+            </div>
+            <div class="minutes">He Lives in You</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div53">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Trinidad Cardona, Davido, Aisha</div>
+            </div>
+            <div class="minutes">Hayya Hayya (Better Together) - M...</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div54">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="explicit">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="lyrics">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Laa Lee, Cristale</div>
+            </div>
+            <div class="minutes">Bong Bing</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div55">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Marshmello, Khalid</div>
+            </div>
+            <div class="minutes">Silence</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div56">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Dean Lewis</div>
+            </div>
+            <div class="minutes">7 Minutes</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div57">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics58">
+                <div class="lyrics-child"></div>
+                <b class="lyrics59">LYRICS</b>
+              </div>
+              <div class="lyrics">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Black Sherif</div>
+            </div>
+            <div class="minutes29">Kwaku the Traveller</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div58">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="explicit">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">SYML</div>
+            </div>
+            <div class="minutes">Where's My Love</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div59">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="lyrics">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Kendrick Lamar, Taylour Paige</div>
+            </div>
+            <div class="minutes">We Cry Together</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <div class="div60">
+            <img
+              class="more-option-icon"
+              alt=""
+              src="./public/more-option.svg"
+            />
+
+            <img class="like-icon1" alt="" src="./public/like.svg" />
+
+            <div class="downloaded-parent">
+              <img
+                class="downloaded-icon26"
+                alt=""
+                src="./public/downloaded.svg"
+              />
+
+              <div class="lyrics">
+                <b class="e">LYRICS</b>
+              </div>
+              <div class="lyrics">
+                <b class="e">E</b>
+              </div>
+              <div class="dean-lewis1">Maggie Lindermann, Cheat Cod...</div>
+            </div>
+            <div class="minutes">Pretty Girl - Cheat Codes X CADE ...</div>
+            <img class="art-icon37" alt="" src="./public/art@2x.png" />
+          </div>
+          <img class="downloaded-icon59" alt="" src="./public/downloaded.svg" />
+
+          <div class="songs26">266 songs</div>
+          <b class="liked-songs29">Liked Songs</b>
+        </div>
+        <img class="shuffle-icon" alt="" src="./public/shuffle.svg" />
+
+        <div class="sort-bar">
+          <div class="sort-bar-child"></div>
+          <b class="sort">Sort</b>
+        </div>
+        <div class="search-bar2">
+          <div class="search-bar-item"></div>
+          <div class="find-in-liked-songs-parent">
+            <b class="find-in-liked">Find in liked songs</b>
+            <img class="search-icon3" alt="" />
+          </div>
+        </div>
+        <img class="back-icon" alt="" src="./public/back.svg" />
+
+        <div class="navigation-bar5">
+          <div class="navigation-bar-child2"></div>
+          <div class="library5">
+            <div class="your-library7">Your Library</div>
+            <img class="icon50" alt="" src="./public/icon.svg" />
+          </div>
+          <div class="search11">
+            <div class="search12">Search</div>
+            <img class="icon51" alt="" src="./public/icon.svg" />
+          </div>
+          <div class="home10">
+            <div class="home11">Home</div>
+            <img class="icon52" alt="" src="./public/icon.svg" />
+          </div>
+        </div>
+        <div class="curent-song4">
+          <div class="curent-song-child2"></div>
+          <img class="seed-icon4" alt="" src="./public/seed.svg" />
+
+          <img class="playpause-icon4" alt="" src="./public/playpause.svg" />
+
+          <img
+            class="likeunlike-animation-icon4"
+            alt=""
+            src="./public/likeunlike-animation.svg"
+          />
+
+          <div class="device4">
+            <div class="phone4">
+              <img class="phone-icon4" alt="" src="./public/phone.svg" />
+            </div>
+          </div>
+          <div class="titleartist4">
+            <b class="kwaku-the-traveller4">Kwaku the Traveller</b>
+            <div class="black-sherif4">Black Sherif</div>
+          </div>
+          <img class="art-icon70" alt="" src="./public/art@2x.png" />
+        </div>
+        <div class="status-bar6">
+          <div class="time6">
+            <b class="b6">8:00</b>
+          </div>
+          <img class="stats-icon6" alt="" src="./public/stats.svg" />
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+.liked-songs-screen-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #372e65, #2d235b 55.99%, #241d3e 97.74%);
+  width: 414px;
+  height: 94px;
+}
+.background2,
+.background3 {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.background2 {
+  top: 0;
+  background: linear-gradient(
+    180deg,
+    #5628f8,
+    #352295 26.04%,
+    #231a53 58.99%,
+    #1c182f 74.54%,
+    #121212
+  );
+  width: 435px;
+  height: 896px;
+}
+.background3 {
+  top: 896px;
+  background-color: var(--color-gray-100);
+  width: 414px;
+  height: 1843px;
+}
+.background1 {
+  position: absolute;
+  top: -113px;
+  left: 0;
+  width: 428px;
+  height: 2983px;
+}
+.empty-space3,
+.like-icon1,
+.more-option-icon {
+  position: absolute;
+  top: 2367px;
+  left: 0;
+  width: 376px;
+  height: 128px;
+  overflow: hidden;
+}
+.like-icon1,
+.more-option-icon {
+  height: 34.62%;
+  width: 0.8%;
+  top: 32.69%;
+  right: 0;
+  bottom: 32.69%;
+  left: 99.2%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.like-icon1 {
+  height: 30.77%;
+  width: 4.79%;
+  top: 34.62%;
+  right: 11.44%;
+  bottom: 34.62%;
+  left: 83.78%;
+}
+.downloaded-icon26 {
+  width: 12px;
+  position: relative;
+  height: 12px;
+}
+.lyrics {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkgray);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-10xs);
+}
+.e {
+  position: relative;
+  line-height: 80%;
+}
+.explicit {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkgray);
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-10xs);
+}
+.dean-lewis1 {
+  position: relative;
+  font-size: var(--font-size-2xs);
+  line-height: 80%;
+  color: var(--color-gray-500);
+}
+.downloaded-parent {
+  position: absolute;
+  height: 23.08%;
+  top: 57.69%;
+  bottom: 19.23%;
+  left: 65px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 4px;
+}
+.minutes {
+  position: absolute;
+  top: 23.08%;
+  left: 17.29%;
+  font-size: var(--font-size-sm);
+  line-height: 80%;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.art-icon37 {
+  position: absolute;
+  height: 100%;
+  width: 13.83%;
+  top: 0;
+  right: 86.17%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div28,
+.div29,
+.div30 {
+  position: absolute;
+  top: 2299px;
+  left: 0;
+  width: 376px;
+  height: 52px;
+}
+.div29,
+.div30 {
+  top: 2231px;
+}
+.div30 {
+  top: 2163px;
+}
+.div31,
+.div32,
+.div33,
+.div34,
+.div35,
+.div36,
+.div37 {
+  position: absolute;
+  top: 2095px;
+  left: 0;
+  width: 376px;
+  height: 52px;
+}
+.div32,
+.div33,
+.div34,
+.div35,
+.div36,
+.div37 {
+  top: 2027px;
+}
+.div33,
+.div34,
+.div35,
+.div36,
+.div37 {
+  top: 1959px;
+}
+.div34,
+.div35,
+.div36,
+.div37 {
+  top: 1891px;
+}
+.div35,
+.div36,
+.div37 {
+  top: 1823px;
+}
+.div36,
+.div37 {
+  top: 1755px;
+}
+.div37 {
+  top: 1687px;
+}
+.div38,
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44 {
+  position: absolute;
+  top: 1619px;
+  left: 0;
+  width: 376px;
+  height: 52px;
+}
+.div39,
+.div40,
+.div41,
+.div42,
+.div43,
+.div44 {
+  top: 1551px;
+}
+.div40,
+.div41,
+.div42,
+.div43,
+.div44 {
+  top: 1483px;
+}
+.div41,
+.div42,
+.div43,
+.div44 {
+  top: 1415px;
+}
+.div42,
+.div43,
+.div44 {
+  top: 1347px;
+}
+.div43,
+.div44 {
+  top: 1279px;
+}
+.div44 {
+  top: 1211px;
+}
+.div45,
+.div46,
+.div47,
+.div48,
+.div49,
+.div50,
+.div51 {
+  position: absolute;
+  top: 1143px;
+  left: 0;
+  width: 376px;
+  height: 52px;
+}
+.div46,
+.div47,
+.div48,
+.div49,
+.div50,
+.div51 {
+  top: 1075px;
+}
+.div47,
+.div48,
+.div49,
+.div50,
+.div51 {
+  top: 1007px;
+}
+.div48,
+.div49,
+.div50,
+.div51 {
+  top: 939px;
+}
+.div49,
+.div50,
+.div51 {
+  top: 871px;
+}
+.div50,
+.div51 {
+  top: 803px;
+}
+.div51 {
+  top: 735px;
+}
+.div52,
+.div53,
+.div54,
+.div55,
+.div56,
+.lyrics-child {
+  position: absolute;
+  top: 667px;
+  left: 0;
+  width: 376px;
+  height: 52px;
+}
+.div53,
+.div54,
+.div55,
+.div56,
+.lyrics-child {
+  top: 599px;
+}
+.div54,
+.div55,
+.div56,
+.lyrics-child {
+  top: 531px;
+}
+.div55,
+.div56,
+.lyrics-child {
+  top: 463px;
+}
+.div56,
+.lyrics-child {
+  top: 395px;
+}
+.lyrics-child {
+  top: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkgray);
+  width: 32px;
+  height: 10px;
+}
+.lyrics59 {
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  line-height: 80%;
+}
+.lyrics58 {
+  width: 32px;
+  position: relative;
+  height: 10px;
+}
+.minutes29 {
+  position: absolute;
+  top: 23.08%;
+  left: 17.29%;
+  font-size: var(--font-size-sm);
+  line-height: 80%;
+  font-weight: 500;
+  color: var(--color-limegreen);
+}
+.div57,
+.div58,
+.div59,
+.div60 {
+  position: absolute;
+  top: 327px;
+  left: 0;
+  width: 376px;
+  height: 52px;
+}
+.div58,
+.div59,
+.div60 {
+  top: 259px;
+}
+.div59,
+.div60 {
+  top: 191px;
+}
+.div60 {
+  top: 123px;
+}
+.downloaded-icon59 {
+  position: absolute;
+  height: 0.96%;
+  width: 6.38%;
+  top: 2.44%;
+  right: 92.02%;
+  bottom: 96.59%;
+  left: 1.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.songs26 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-500);
+}
+.liked-songs28,
+.liked-songs29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lgi);
+  color: var(--color-white);
+}
+.liked-songs28 {
+  top: 120px;
+  left: 16px;
+  width: 376px;
+  height: 2495px;
+  font-size: var(--font-size-5xs-5);
+  color: var(--color-black);
+}
+.shuffle-icon {
+  position: absolute;
+  height: 5.81%;
+  width: 12.57%;
+  top: 18.86%;
+  right: 3.36%;
+  bottom: 75.33%;
+  left: 84.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sort-bar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  width: 56px;
+  height: 38px;
+}
+.sort {
+  position: absolute;
+  top: 12px;
+  left: 17px;
+}
+.search-bar-item,
+.sort-bar {
+  position: absolute;
+  height: 38px;
+}
+.sort-bar {
+  top: -19px;
+  left: 343px;
+  width: 56px;
+  opacity: 0;
+}
+.search-bar-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  width: 320px;
+}
+.find-in-liked,
+.search-icon3 {
+  position: absolute;
+  top: 0.3px;
+  left: 25px;
+}
+.search-icon3 {
+  height: 100%;
+  width: 12.08%;
+  top: 0;
+  right: 87.92%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.find-in-liked-songs-parent,
+.search-bar2 {
+  position: absolute;
+  top: 11.7px;
+  left: 15px;
+  width: 120px;
+  height: 14.5px;
+}
+.search-bar2 {
+  top: -19px;
+  width: 320px;
+  height: 38px;
+  opacity: 0;
+}
+.back-icon {
+  position: absolute;
+  top: 58px;
+  left: 17px;
+  width: 20px;
+  height: 14px;
+}
+.navigation-bar-child2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    transparent,
+    rgba(0, 0, 0, 0.6) 20.7%,
+    rgba(0, 0, 0, 0.8) 38.53%,
+    rgba(0, 0, 0, 0.9) 60.36%,
+    rgba(0, 0, 0, 0.95)
+  );
+}
+.your-library7 {
+  position: absolute;
+  top: 71.07%;
+  left: -46.34%;
+  font-weight: 500;
+}
+.icon50 {
+  position: absolute;
+  height: 61.17%;
+  width: 100%;
+  top: 0;
+  right: -4.47%;
+  bottom: 38.83%;
+  left: 4.47%;
+  border-radius: var(--br-12xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.library5 {
+  position: absolute;
+  height: 34.26%;
+  width: 5.31%;
+  top: 49.57%;
+  right: 19.57%;
+  bottom: 16.17%;
+  left: 75.12%;
+}
+.search12 {
+  position: absolute;
+  top: 71.07%;
+  left: -8.54%;
+  font-weight: 500;
+}
+.icon51 {
+  position: absolute;
+  height: 61.17%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 38.83%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search11 {
+  position: absolute;
+  height: 34.26%;
+  width: 5.31%;
+  top: 49.57%;
+  right: 47.34%;
+  bottom: 16.17%;
+  left: 47.34%;
+  opacity: 0.7;
+}
+.home11 {
+  top: 92.64%;
+  left: 0;
+  font-weight: 500;
+}
+.home10,
+.home11,
+.icon52 {
+  position: absolute;
+}
+.icon52 {
+  height: 61.17%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 38.83%;
+  left: 0;
+  border-radius: var(--br-12xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home10 {
+  height: 34.26%;
+  width: 5.31%;
+  top: 49.57%;
+  right: 75.12%;
+  bottom: 16.17%;
+  left: 19.57%;
+  opacity: 0.7;
+}
+.navigation-bar5 {
+  position: absolute;
+  top: 808px;
+  left: 8px;
+  width: 463px;
+  height: 115px;
+  font-size: var(--font-size-5xs);
+}
+.curent-song-child2 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray-100);
+  width: 406px;
+  height: 60px;
+}
+.seed-icon4 {
+  position: absolute;
+  top: 62px;
+  left: 10.2px;
+  max-height: 100%;
+  width: 385.6px;
+}
+.likeunlike-animation-icon4,
+.playpause-icon4 {
+  position: absolute;
+  height: 27.51%;
+  width: 4.41%;
+  top: 36.31%;
+  right: 2.64%;
+  bottom: 36.17%;
+  left: 92.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.likeunlike-animation-icon4 {
+  height: 100%;
+  width: 17.93%;
+  top: 0;
+  right: 7.09%;
+  bottom: 0;
+  left: 74.98%;
+}
+.phone-icon4 {
+  width: 23.5px;
+  position: relative;
+  border-radius: var(--br-10xs-5);
+  height: 20px;
+}
+.phone4 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 12px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.device4 {
+  position: absolute;
+  top: 23px;
+  left: 277.5px;
+  width: 24px;
+  height: 20px;
+}
+.black-sherif4,
+.kwaku-the-traveller4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 104.1px;
+}
+.black-sherif4 {
+  top: 14px;
+  width: 60.2px;
+}
+.art-icon70,
+.titleartist4 {
+  position: absolute;
+  top: 19px;
+  left: 65.3px;
+  width: 104.1px;
+  height: 28px;
+}
+.art-icon70 {
+  top: 11px;
+  left: 8.2px;
+  border-radius: var(--br-8xs);
+  width: 44.9px;
+  height: 44px;
+  object-fit: cover;
+}
+.curent-song4 {
+  position: absolute;
+  top: 768px;
+  left: 8px;
+  width: 406px;
+  height: 71.6px;
+}
+.b6 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stats-icon6,
+.time6 {
+  width: 50.3px;
+  position: relative;
+  height: 18px;
+}
+.stats-icon6 {
+  width: 66.7px;
+  height: 11.3px;
+}
+.liked-songs-screen-1,
+.status-bar6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.status-bar6 {
+  width: 414px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-smi) var(--padding-lg);
+  box-sizing: border-box;
+  gap: 0 261px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-sf-pro-text);
+}
+.liked-songs-screen-1 {
+  width: 428px;
+  height: 930px;
+}
+.iphone-14-plus-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 923px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-circular-std);
+}
